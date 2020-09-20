@@ -90,3 +90,12 @@
     }
   } 
   
+  .hide{
+    display: none;
+  }
+
+  .dd-menu li{
+    display: block;
+    padding: 3px; 
+    margin: 3px; 
+  }

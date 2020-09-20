@@ -1,0 +1,19 @@
+Block level element---> occupies full width---> box model <--X--> it will occupy full screen
+inline element ---> occupies needed it will not occupy full screen <-- X --> no box model
+inline-Block
+
+serif / san serif
+
+
+Normal Document flow
+
+positional css
+
+place the elements ---> adjust the margin and padding
+
+// 320px, 480px, 768px, 992px, 1024px
+
+@media only screen and (min-width : 320px) {
+    
+}
+
